@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_seek_progress">100</integer>
+
+    <integer name="color_1s">4294957415</integer>
+    <integer name="color_1e">3844351</integer>
+
+    <integer name="color_2s">13376812</integer>
+    <integer name="color_2e">3385407</integer>
+
+    <integer name="color_3s">1429177514</integer>
+    <integer name="color_3e">11241662</integer>
+
+    <integer name="color_4s">4353853</integer>
+    <integer name="color_4e">6105988</integer>
+
+    <integer name="color_5s">984154111</integer>
+    <integer name="color_5e">16707842</integer>
+
+    <integer name="color_6s">13376812</integer>
+    <integer name="color_6e">16757970</integer>
+
+    <integer name="color_7s">16771593</integer>
+    <integer name="color_7e">15626276</integer>
+
+    <integer name="color_8s">16707842</integer>
+    <integer name="color_8e">6105988</integer>
+
+    <integer name="color_9s">11241662</integer>
+    <integer name="color_9e">13376812</integer>
+
+
+
+
+</resources>

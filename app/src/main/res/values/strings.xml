@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ModernArt</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_more">More Information</string>
+    <string name="action_about">norman</string>
+
+    <string name="dialog_message">Inspired by the works of artist such as Piet Mondrian.\nClick below to learn more!</string>
+    <string name="dialog_yes">Visit MOMA</string>
+    <string name="dialog_no">Not Now</string>
+
+</resources>

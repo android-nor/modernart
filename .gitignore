@@ -1,0 +1,7 @@
+# Ignore IDE files
+*.iml
+.idea/
+
+# JAVA 
+*.class
+
